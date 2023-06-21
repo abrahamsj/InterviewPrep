@@ -12,5 +12,5 @@ This a basic program with 2-3 questions in the following categories
   Stretch Goals
   - Add more questions
   - Make multiple choice
-  - All specific words or phrasing to be correct even if its not the exact answer
+  - Allow specific words or phrasing to be correct even if its not the exact answer
    
